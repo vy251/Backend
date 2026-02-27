@@ -1,3 +1,3 @@
-# Backend Series
+# Backend
 
-This is a practice series of backend with jaascript
+This is a practice series of Backend
